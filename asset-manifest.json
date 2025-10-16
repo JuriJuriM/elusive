@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/JuriJuriM/elusive/static/css/main.80a332f0.css",
-    "main.js": "/JuriJuriM/elusive/static/js/main.7a26f457.js",
-    "static/media/avatar.jpg": "/JuriJuriM/elusive/static/media/avatar.82bba7d15b640b33adba.jpg",
-    "index.html": "/JuriJuriM/elusive/index.html",
-    "main.80a332f0.css.map": "/JuriJuriM/elusive/static/css/main.80a332f0.css.map",
-    "main.7a26f457.js.map": "/JuriJuriM/elusive/static/js/main.7a26f457.js.map"
+    "main.css": "/elusive/static/css/main.80a332f0.css",
+    "main.js": "/elusive/static/js/main.9578918f.js",
+    "static/media/avatar.jpg": "/elusive/static/media/avatar.82bba7d15b640b33adba.jpg",
+    "index.html": "/elusive/index.html",
+    "main.80a332f0.css.map": "/elusive/static/css/main.80a332f0.css.map",
+    "main.9578918f.js.map": "/elusive/static/js/main.9578918f.js.map"
   },
   "entrypoints": [
     "static/css/main.80a332f0.css",
-    "static/js/main.7a26f457.js"
+    "static/js/main.9578918f.js"
   ]
 }

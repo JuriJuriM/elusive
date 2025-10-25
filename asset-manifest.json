@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/elusive/static/css/main.d3d536c7.css",
-    "main.js": "/elusive/static/js/main.526dff5b.js",
+    "main.js": "/elusive/static/js/main.f8ff76b1.js",
     "static/media/elusive.png": "/elusive/static/media/elusive.523fc00375ec0a886dd8.png",
     "static/media/avatar.jpg": "/elusive/static/media/avatar.82bba7d15b640b33adba.jpg",
     "static/media/elusivefone.jpg": "/elusive/static/media/elusivefone.0bb893124bdf04b56ae9.jpg",
     "index.html": "/elusive/index.html",
     "main.d3d536c7.css.map": "/elusive/static/css/main.d3d536c7.css.map",
-    "main.526dff5b.js.map": "/elusive/static/js/main.526dff5b.js.map"
+    "main.f8ff76b1.js.map": "/elusive/static/js/main.f8ff76b1.js.map"
   },
   "entrypoints": [
     "static/css/main.d3d536c7.css",
-    "static/js/main.526dff5b.js"
+    "static/js/main.f8ff76b1.js"
   ]
 }
